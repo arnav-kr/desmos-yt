@@ -1,0 +1,8 @@
+#dcg-header-container,
+.dcg-expressions-branding,
+.dcg-show-keypad-container {
+  display: none !important;
+}
+#graph-container {
+  top: 0 !important;
+}

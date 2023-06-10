@@ -1,0 +1,15 @@
+{
+  "name": "desmos",
+  "type": "module",
+  "private": true,
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "puppeteer": "^20.5.0",
+    "puppeteer-screen-recorder": "^2.1.2"
+  }
+}
